@@ -1,0 +1,1 @@
+pip install aiogram aiohttp aiosqlite python-dotenv
